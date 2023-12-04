@@ -1,0 +1,19 @@
+#alert{
+    display: none;
+    font-size : large;
+    border-radius : 10px;
+    width : 200px;
+    padding : 20px;
+    background-color: rgb(171, 238, 171);
+    font-weight: 550;
+    color : green;
+
+    position: absolute;
+    top: 350px;
+    left: 400px;
+    transform: translate(-30%, -70%);
+}
+.alert-title {
+    font-size : x-large;
+    font-weight : 700;
+}
