@@ -23,7 +23,7 @@
         else {
           QuestContainer.style.color = 'red';
         }
-
+          // si les 3 éléments sont corrects
         if (numCorrect === 3){
           document.getElementById("alert").style.display = 'block';
         }
